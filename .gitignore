@@ -1,0 +1,14 @@
+*~
+*.pyc
+.*swp
+build
+dist
+*.egg-info
+*local*
+data
+.cache
+_design
+doc
+htmlcov
+.coverage
+
